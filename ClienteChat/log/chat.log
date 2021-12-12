@@ -40,3 +40,4 @@
 2021-12-12 14:29:31,118 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
 2021-12-12 14:29:31,118 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
 2021-12-12 14:29:31,118 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 15:26:56,812 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Default.
