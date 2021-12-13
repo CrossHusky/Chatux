@@ -33,7 +33,7 @@ public class VentanaConfiguracion extends JDialog{
         
         tfUsuario = new JTextField("Default");
         tfHost = new JTextField("localhost");
-        tfPuerto = new JTextField("1234");
+        tfPuerto = new JTextField("25565");
         
         JButton btAceptar = new JButton("Aceptar");
         btAceptar.addActionListener(new ActionListener() {

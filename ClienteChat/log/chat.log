@@ -41,3 +41,34 @@
 2021-12-12 14:29:31,118 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
 2021-12-12 14:29:31,118 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
 2021-12-12 15:26:56,812 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Default.
+2021-12-12 18:07:55,004 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.1.179.247 en el puerto 1234 con el nombre de ususario: Default.
+2021-12-12 18:08:16,077 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection timed out: connect).
+2021-12-12 18:08:16,080 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:08:16,080 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:08:16,080 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:14:59,748 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.1.179.247 en el puerto 1234 con el nombre de ususario: Samael1.
+2021-12-12 18:15:07,203 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.1.179.247 en el puerto 1234 con el nombre de ususario: Samael2.
+2021-12-12 18:15:20,791 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection timed out: connect).
+2021-12-12 18:15:20,794 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:15:20,794 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:15:20,794 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:15:28,262 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection timed out: connect).
+2021-12-12 18:15:28,265 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:15:28,265 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:15:28,265 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:16:06,458 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.1.179.247 en el puerto 1234 con el nombre de ususario: Samael.
+2021-12-12 18:16:27,506 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection timed out: connect).
+2021-12-12 18:16:27,508 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:16:27,508 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:16:27,508 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:17:54,185 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.2.83.100 en el puerto 1234 con el nombre de ususario: Default.
+2021-12-12 18:17:56,220 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection refused: connect).
+2021-12-12 18:17:56,222 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:17:56,223 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:17:56,223 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:18:16,811 [main] INFO  clientechat.ClienteChat - Quieres conectarte a 25.1.179.247 en el puerto 1234 con el nombre de ususario: Default.
+2021-12-12 18:18:37,860 [main] ERROR clientechat.ClienteChat - No se ha podido conectar con el servidor (Connection timed out: connect).
+2021-12-12 18:18:37,863 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
+2021-12-12 18:18:37,863 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:18:37,863 [main] ERROR clientechat.ClienteChat - El socket no se creo correctamente. 
+2021-12-12 18:26:19,278 [main] INFO  clientechat.ClienteChat - Quieres conectarte a localhost en el puerto 25565 con el nombre de ususario: Samael.

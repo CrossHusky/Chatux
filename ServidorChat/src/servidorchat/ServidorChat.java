@@ -19,7 +19,7 @@ public class ServidorChat {
         PropertyConfigurator.configure("log4j.properties");        
         Logger log = Logger.getLogger(ServidorChat.class);
         
-        int puerto = 1234;
+        int puerto = 25565;
         int maximoConexiones = 10; // Maximo de conexiones simultaneas
         ServerSocket servidor = null; 
         Socket socket = null;

@@ -14,7 +14,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 public class ClienteChat extends JFrame {
 
-    private ImageIcon img = new ImageIcon("src/clientechat/logo.png");
+    private ImageIcon img = new ImageIcon("logo.png");
 
     private Logger log = Logger.getLogger(ClienteChat.class);
     private JTextArea mensajesChat;
